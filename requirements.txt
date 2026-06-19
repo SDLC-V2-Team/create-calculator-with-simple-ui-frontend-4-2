@@ -1,0 +1,4 @@
+# No external dependencies required – Tkinter is part of Python's standard library.
+# Python 3.6+ recommended.
+
+flask
